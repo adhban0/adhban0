@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I’m currently learning data analysis and exploring all fields of data science. Looking forward to collaborate and recieve help and advice from whoever might be generous to.
 
 <!--
 **adhban0/adhban0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

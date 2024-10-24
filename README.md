@@ -1,4 +1,5 @@
-## Hi there 👋 I’m currently learning data analysis and exploring all fields of data science. Looking forward to collaborate and recieve help and advice from whoever might be generous to.
+## Hi there, I'm Raafat Adhban👋 
+I’m currently learning data analysis and exploring all fields of data science. Here you'll find a collection of projects that reflect my humble progress. Looking forward to collaborate and recieve help and advice from whoever might be generous to.
 
 <!--
 **adhban0/adhban0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
